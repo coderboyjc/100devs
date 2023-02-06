@@ -22,6 +22,7 @@ function getFetch(){
 
         document.querySelector('h2').innerText = localStorage.getItem('books');
         document.querySelector('h2').innerText = localStorage.getItem("books");
+        document.querySelector('h2').innerText = localStorage.getItem("books");
 
 
       })
